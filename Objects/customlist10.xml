@@ -1,0 +1,16 @@
+<customlist scriptid="customlist10">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>QA Pass/Fail List</name>
+  <customvalues>
+    <customvalue scriptid="value_1_3373950_571">
+      <isinactive>F</isinactive>
+      <value>Pass</value>
+    </customvalue>
+    <customvalue scriptid="value_2_3373950_571">
+      <isinactive>F</isinactive>
+      <value>Fail</value>
+    </customvalue>
+  </customvalues>
+</customlist>
